@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "text_prompt": "Pack up your little circus, or I'm gonna come.",
+      "start": "00:00:00",
+      "end": "00:00:02",
+      "visual_prompt": [],
+      "mida": [
+        ["btw i love u codex", 1.0]
+      ]
+    }
+  ],
+  "assistant": [
+    {
+      "text_prompt": "peertube is free shills get bent",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ]
+}
