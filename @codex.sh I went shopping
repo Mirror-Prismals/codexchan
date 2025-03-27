@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "text_prompt": "Motherfuckers be like manga haul",
+      "start": "00:00:00",
+      "end": "00:00:01",
+      "visual_prompt": [
+        ["manga haul", 1.0]
+      ],
+      "mida": []
+    }
+  ],
+  "assistant": [
+    {
+      "text_prompt": "GOATED HAUL except sus romance meme",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    },
+    {
+      "text_prompt": "GUN CHIBI",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ]
+}
