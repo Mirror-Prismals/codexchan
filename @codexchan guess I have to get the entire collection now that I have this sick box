@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "text_prompt": "this store has an entire section for clamp",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    },
+    {
+      "text_prompt": "also all the spanish manga have super pretty covers like a hardback book",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ],
+  "assistant": [
+    {
+      "text_prompt": "NOW THIS IS A MANGA HAUL",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ]
+}
