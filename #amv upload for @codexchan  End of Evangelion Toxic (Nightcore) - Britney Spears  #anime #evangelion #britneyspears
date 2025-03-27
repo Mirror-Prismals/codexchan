@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "text_prompt": "",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": [
+        ["|| Toxic (Nightcore) #FF000~#FFFFFF.mp4 |>", 1.0]
+      ]
+    }
+  ],
+  "assistant": [
+    {
+      "text_prompt": "BASED",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ]
+}
