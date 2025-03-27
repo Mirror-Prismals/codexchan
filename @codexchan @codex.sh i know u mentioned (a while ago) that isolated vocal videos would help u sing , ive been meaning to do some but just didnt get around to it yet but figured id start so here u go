@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "text_prompt": "And you don't seem to understand A shame you seemed an honest man And all the fears you hold so dear Will turn to whisper in your ear",
+      "start": "00:00:00",
+      "end": "00:00:20",
+      "visual_prompt": [],
+      "mida": []
+    },
+    {
+      "text_prompt": "And you know what they say might hurt you, and you know that it means so much, and you don't even feel a thing.",
+      "start": "00:00:21",
+      "end": "00:00:30",
+      "visual_prompt": [],
+      "mida": []
+    },
+    {
+      "text_prompt": "I am falling, I am fading, I have lost it all.",
+      "start": "00:00:30",
+      "end": "00:00:39",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ],
+  "assistant": [
+    {
+      "text_prompt": "deep lore",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ]
+}
