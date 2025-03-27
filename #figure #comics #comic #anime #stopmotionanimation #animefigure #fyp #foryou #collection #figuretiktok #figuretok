@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "text_prompt": "",
+      "start": "",
+      "end": "",
+      "visual_prompt": [
+        ["toy versions the eva's from neon genesis doing a choreographed stop motion dance", 1.0]
+      ],
+      "mida": []
+    }
+  ],
+  "assistant": [
+    {
+      "text_prompt": "dat laugh",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ]
+}
