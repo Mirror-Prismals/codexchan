@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "text_prompt": "",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": [
+        ["((( {*| v|} {v| v|} {v| v|} {v| v|} | {^| v|} {v| v|} {v| v|} {v| v|} )))", 1.0]
+      ]
+    }
+  ],
+  "assistant": [
+    {
+      "text_prompt": "this makes me feel a certain kind of way",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    }
+  ]
+}
