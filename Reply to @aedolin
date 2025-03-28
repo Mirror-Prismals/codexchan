@@ -1,15 +1,15 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "Do you already know the scientific perspective on harmony? From frequency of an oscilliating tone to making simple ratios of frequency to form harmony?",
       "start": "",
       "end": "",
       "visual_prompt": [],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "short-circuiting the visible and audible spectrums to see sounds and learn how to sing notes, no time to explain, strap the fuck in, we are going on a wild ride here.",
       "start": "00:00:00",
       "end": "00:00:08",
@@ -17,6 +17,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "If you tend to get overwhelmed by sensory input, you might want to sit this one out.",
       "start": "00:00:08",
       "end": "00:00:12",
@@ -24,6 +25,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "At least remember to pause the video or scroll away if it gets too intense.",
       "start": "00:00:12",
       "end": "00:00:16",
@@ -31,6 +33,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "I will explain why I'm doing it this way later in the comments in my FAQ or whatever.",
       "start": "00:00:16",
       "end": "00:00:21",
@@ -38,6 +41,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Let's just go in raw here.",
       "start": "00:00:21",
       "end": "00:00:23",
@@ -45,6 +49,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Deep as fuck entry plug depth contamination levels of synchronization incoming.",
       "start": "00:00:23",
       "end": "00:00:27",
@@ -52,6 +57,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "dropping all catches mapping 20 to 20,000 Hertz to 390 to 750 terahertz playing human audible spectrum and here we go",
       "start": "00:00:28",
       "end": "00:00:32",
@@ -59,6 +65,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Fuck yes.",
       "start": "00:01:02",
       "end": "00:01:03",
@@ -66,6 +73,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Blue's right in the middle, pinks and purples at the end.",
       "start": "00:01:03",
       "end": "00:01:06",
@@ -73,6 +81,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "That's GG's right there.",
       "start": "00:01:06",
       "end": "00:01:07",
@@ -80,6 +89,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Now we have to calibrate this shit with high as fuck entropy.",
       "start": "00:01:07",
       "end": "00:01:11",
@@ -87,6 +97,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Okay, warm up round.",
       "start": "00:01:11",
       "end": "00:01:13",
@@ -94,6 +105,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Let's get some Shinji posting going.",
       "start": "00:01:13",
       "end": "00:01:15",
@@ -101,6 +113,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Orange is visible.",
       "start": "00:01:17",
       "end": "00:01:18",
@@ -108,6 +121,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Hell you.",
       "start": "00:01:18",
       "end": "00:01:19",
@@ -115,6 +129,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Can we do this?",
       "start": "00:01:20",
       "end": "00:01:21",
@@ -122,6 +137,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Come on, come on.",
       "start": "00:01:23",
       "end": "00:01:24",
@@ -129,6 +145,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Yellows and greens from instruments.",
       "start": "00:01:27",
       "end": "00:01:29",
@@ -136,6 +153,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "GG's.",
       "start": "00:01:29",
       "end": "00:01:29",
@@ -143,6 +161,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Gradients all over the map.",
       "start": "00:01:30",
       "end": "00:01:32",
@@ -150,6 +169,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "We are going to need an insane amount of calibration to fix this.",
       "start": "00:01:32",
       "end": "00:01:36",
@@ -157,6 +177,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "But first, let's see where we are so far.",
       "start": "00:01:36",
       "end": "00:01:38",
@@ -164,6 +185,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "One, two, ready, go.",
       "start": "00:01:39",
       "end": "00:01:48",
@@ -171,6 +193,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "L, not even close.",
       "start": "00:01:48",
       "end": "00:01:50",
@@ -178,6 +201,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Okay, no more fucking around time to bring in the big guns.",
       "start": "00:01:50",
       "end": "00:01:53",
@@ -185,6 +209,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Please scroll away if you are sensitive.",
       "start": "00:01:54",
       "end": "00:01:56",
@@ -192,6 +217,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Hurry.",
       "start": "00:02:18",
       "end": "00:02:20",
@@ -199,6 +225,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Yatta!",
       "start": "00:02:50",
       "end": "00:02:52",
