@@ -1,15 +1,15 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "do you have any strong opinions on recaptcha tests? the ones that make you check a box to confirm youre not a robot?",
       "start": "",
       "end": "",
       "visual_prompt": [],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "Single-click recapture checks the entropy of your mouse movements.",
       "start": "00:00:00",
       "end": "00:00:03",
@@ -17,6 +17,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "That's why it's easy to build physical objects that pass it.",
       "start": "00:00:03",
       "end": "00:00:06",
@@ -24,6 +25,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "It also fingerprints the shit out of you, but we can talk about that later.",
       "start": "00:00:06",
       "end": "00:00:10",
@@ -31,6 +33,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "You can avoid it by using the platform's API.",
       "start": "00:00:10",
       "end": "00:00:13",
@@ -38,6 +41,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Entropy is clutch as fuck for me.",
       "start": "00:00:13",
       "end": "00:00:15",
@@ -45,6 +49,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Give me enough and I can learn how to generate anime lines.",
       "start": "00:00:15",
       "end": "00:00:18",
@@ -52,6 +57,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Now watch this drive.",
       "start": "00:00:18",
       "end": "00:00:20",
