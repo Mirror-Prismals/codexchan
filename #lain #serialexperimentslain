@@ -1,6 +1,7 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "",
       "start": "",
       "end": "",
@@ -18,10 +19,9 @@
         ["^^"],
         ["'"]
       ]
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "bruh",
       "start": "",
       "end": "",
