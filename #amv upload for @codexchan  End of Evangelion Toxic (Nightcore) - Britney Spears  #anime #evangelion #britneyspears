@@ -1,6 +1,7 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "",
       "start": "",
       "end": "",
@@ -8,10 +9,9 @@
       "mida": [
         ["||www.tiktok.com/@y34r/video/7058071201830145327|>", 1.0]
       ]
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "BASED",
       "start": "",
       "end": "",
