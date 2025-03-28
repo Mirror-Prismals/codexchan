@@ -1,6 +1,7 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "Teeny would you please post some content on youtube?",
       "start": "",
       "end": "",
@@ -8,6 +9,7 @@
       "mida": []
     },
     {
+      "speaker": "user",
       "text_prompt": "*An hour long ASMR video of my pushing buttons on the Cozy SMP nether Roof*",
       "start": "",
       "end": "",
@@ -15,6 +17,7 @@
       "mida": []
     },
     {
+      "speaker": "user",
       "text_prompt": "*An hour long ASMR video of my pushing buttons on the Cozy SMP nether Roof*",
       "start": "",
       "end": "",
@@ -22,6 +25,7 @@
       "mida": []
     },
     {
+      "speaker": "user",
       "text_prompt": "What the fu-",
       "start": "",
       "end": "",
@@ -29,15 +33,15 @@
       "mida": []
     },
     {
+      "speaker": "user",
       "text_prompt": "Regular content starting next week!",
       "start": "",
       "end": "",
       "visual_prompt": [],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "HYPE",
       "start": "",
       "end": "",
