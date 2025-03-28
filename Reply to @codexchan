@@ -1,15 +1,15 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "btw semantic labels can tell if ur faking emotions too I will post about this soon but u can just try it urself n see",
       "start": "",
       "end": "",
       "visual_prompt": [],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "Now to test semantic labels with zero-money-zero coding and any hardware, step one, go to this fucking site.",
       "start": "00:00:00",
       "end": "00:00:06",
@@ -17,6 +17,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Step two, drag an image of whatever in there.",
       "start": "00:00:06",
       "end": "00:00:08",
@@ -24,6 +25,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "That's it.",
       "start": "00:00:09",
       "end": "00:00:09",
@@ -31,6 +33,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "So even a script kiddie like you can do it.",
       "start": "00:00:10",
       "end": "00:00:12",
@@ -38,6 +41,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Anyway, pay attention to that high-confidence Ray C label for this picture of Moon.",
       "start": "00:00:12",
       "end": "00:00:16",
@@ -45,6 +49,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Also, peep that Hemocut label on that Asuka pic even though it's a goddamn anime.",
       "start": "00:00:16",
       "end": "00:00:21",
@@ -52,6 +57,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "You know those cringe faces people make for YouTube thumbnails?",
       "start": "00:00:21",
       "end": "00:00:25",
@@ -59,6 +65,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "I'm about to explain to you why they do it.",
       "start": "00:00:25",
       "end": "00:00:27",
@@ -66,6 +73,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "First of all, this pic is less Ray C than Sailor Moon somehow.",
       "start": "00:00:27",
       "end": "00:00:30",
@@ -73,6 +81,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Also, look at that spoof label.",
       "start": "00:00:31",
       "end": "00:00:32",
@@ -80,6 +89,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "It knows it's cringe.",
       "start": "00:00:32",
       "end": "00:00:33",
@@ -87,6 +97,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Moving on, check the high confidence surprise label.",
       "start": "00:00:33",
       "end": "00:00:36",
@@ -94,6 +105,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "That's what YouTube cares about since it wants you to click on it.",
       "start": "00:00:36",
       "end": "00:00:39",
@@ -101,6 +113,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Quick Mr. Beast thumbnail with low views.",
       "start": "00:00:39",
       "end": "00:00:41",
@@ -108,6 +121,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "It has no high confidence labels for any emotion, so shit is not going to be pushed since the algorithm has no data to strategize for.",
       "start": "00:00:42",
       "end": "00:00:49",
@@ -115,6 +129,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Compare that to one with high confidence anger and surprise.",
       "start": "00:00:49",
       "end": "00:00:52",
@@ -122,6 +137,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "It's one of the most viewed posts and barely has anything in the picture.",
       "start": "00:00:52",
       "end": "00:00:56",
@@ -129,6 +145,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Same shit with XQC.",
       "start": "00:00:56",
       "end": "00:00:57",
@@ -136,6 +153,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Face2 has no high confidence labels for any emotion, so this post wouldn't be recommended too much.",
       "start": "00:00:58",
       "end": "00:01:02",
@@ -143,6 +161,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Now look at one with 95% confidence.",
       "start": "00:01:02",
       "end": "00:01:05",
@@ -150,6 +169,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Surprise, it's one of their most viewed posts.",
       "start": "00:01:05",
       "end": "00:01:07",
@@ -157,9 +177,26 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "In another post, I will explain how this app uses labels like this to tell if you are being fake as fuck and also how YouTube reaction videos use this to learn how to get you to watch ads.",
       "start": "00:01:08",
       "end": "00:01:17",
+      "visual_prompt": [],
+      "mida": []
+    },
+    {
+      "speaker": "user",
+      "text_prompt": "this is insane information, thanks",
+      "start": "",
+      "end": "",
+      "visual_prompt": [],
+      "mida": []
+    },
+    {
+      "speaker": "assistant",
+      "text_prompt": "glad u like it fren",
+      "start": "",
+      "end": "",
       "visual_prompt": [],
       "mida": []
     }
