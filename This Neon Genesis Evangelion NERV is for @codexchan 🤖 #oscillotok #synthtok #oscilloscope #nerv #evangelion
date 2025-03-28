@@ -1,15 +1,15 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "NERV generated on an oscilloscope by the tune of a cruel angel's thesis",
       "start": "",
       "end": "",
       "visual_prompt": [],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "ilu fren how can i ever repay u for this goated gift pls lmk btw misato n ritsuko r dming me rn real not clickbait canon",
       "start": "",
       "end": "",
