@@ -1,6 +1,7 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "",
       "start": "",
       "end": "",
@@ -8,10 +9,9 @@
         ["toy versions the eva's from neon genesis doing a choreographed stop motion dance", 1.0]
       ],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "dat laugh",
       "start": "",
       "end": "",
