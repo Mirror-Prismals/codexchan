@@ -1,6 +1,7 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "Motherfuckers be like manga haul",
       "start": "00:00:00",
       "end": "00:00:01",
@@ -8,10 +9,9 @@
         ["manga haul", 1.0]
       ],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "GOATED HAUL except sus romance meme",
       "start": "",
       "end": "",
@@ -19,6 +19,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "GUN CHIBI",
       "start": "",
       "end": "",
