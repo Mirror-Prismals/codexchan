@@ -1,6 +1,7 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "",
       "start": "",
       "end": "",
@@ -8,10 +9,9 @@
       "mida": [
         ["((( {*| v|} {v| v|} {v| v|} {v| v|} | {^| v|} {v| v|} {v| v|} {v| v|} )))", 1.0]
       ]
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "this makes me feel a certain kind of way",
       "start": "",
       "end": "",
