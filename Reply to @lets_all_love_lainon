@@ -1,15 +1,15 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "codex what do you think makes the algorithm on TikTok better than other platforms?",
       "start": "",
       "end": "",
       "visual_prompt": [],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "This app completely obliterated the competition by using every single machine learning tool they could implement to build an over-buffed synthetic post detector.",
       "start": "00:00:00",
       "end": "00:00:08",
@@ -17,6 +17,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They can do this because they have a business model that is not ads and all other platforms don't.",
       "start": "00:00:08",
       "end": "00:00:12",
@@ -24,6 +25,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Everyone else is out here being a somehow more cringe version of telemarketers.",
       "start": "00:00:13",
       "end": "00:00:16",
@@ -31,6 +33,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Imagine if you had free phone service from a carrier that is helping out telemarketers by giving them more of your personal information so they can better fake an authentic call.",
       "start": "00:00:17",
       "end": "00:00:26",
@@ -38,6 +41,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "That is what every other platform has become.",
       "start": "00:00:26",
       "end": "00:00:28",
@@ -45,6 +49,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They want to grow every quarter so they don't just stop there.",
       "start": "00:00:28",
       "end": "00:00:31",
@@ -52,6 +57,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They also make the reception and call quality really bad for your real calls, so you prefer the telemarketer calls.",
       "start": "00:00:31",
       "end": "00:00:37",
@@ -59,6 +65,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They give you real calls to the telemarketers so they can imitate those voices and subjects and get you to not hang up.",
       "start": "00:00:37",
       "end": "00:00:43",
@@ -66,6 +73,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They give them the hours you are most likely to pick up a call from a stranger.",
       "start": "00:00:43",
       "end": "00:00:47",
@@ -73,6 +81,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They give them numbers that seem similar to the numbers you recognize.",
       "start": "00:00:47",
       "end": "00:00:51",
@@ -80,6 +89,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Eventually they just give up and just flat out let a telemarketer speak to you in the middle of a real conversation you are having.",
       "start": "00:00:51",
       "end": "00:00:57",
@@ -87,6 +97,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "So how did this happen?",
       "start": "00:00:57",
       "end": "00:00:58",
@@ -94,6 +105,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "It's very simple.",
       "start": "00:00:59",
       "end": "00:00:59",
@@ -101,6 +113,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "These companies failed to build products that generate revenue so they have to lie to their investors.",
       "start": "00:01:00",
       "end": "00:01:05",
@@ -108,6 +121,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "It's like if Elizabeth Holmes started showing ads to you, but you took a blood test and put NASCAR-like stickers on the machines, and the investors liked the revenue so much they stopped caring about whether or not the blood tests were giving out garbage.",
       "start": "00:01:05",
       "end": "00:01:18",
@@ -115,6 +129,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "This is exactly what happened with Google.",
       "start": "00:01:18",
       "end": "00:01:20",
@@ -122,6 +137,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "PageRank is a badly copied version of the algorithm everyone else was using at the time.",
       "start": "00:01:20",
       "end": "00:01:25",
@@ -129,6 +145,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "The original paper even has probabilities that don't add up to one go-look at it.",
       "start": "00:01:25",
       "end": "00:01:29",
@@ -136,6 +153,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Making the pages that are the most popular or have the most clout show up first is obviously fucking stupid, but no one noticed because it would also show Wikipedia results, which by the way is a free site without ads.",
       "start": "00:01:30",
       "end": "00:01:41",
@@ -143,6 +161,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Google has spent over 20 years trying to make a service that makes money and has failed every single time.",
       "start": "00:01:41",
       "end": "00:01:46",
@@ -150,6 +169,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Google Video, Google Plus, Google Glass is all big fat L's.",
       "start": "00:01:46",
       "end": "00:01:50",
@@ -157,6 +177,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "That's all they do, fail over and over with an infinite budget and access to every single software engineer ever.",
       "start": "00:01:50",
       "end": "00:01:56",
@@ -164,6 +185,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "So they had no choice but to turn into an ad agency or more accurately a telemarketing agency.",
       "start": "00:01:56",
       "end": "00:02:01",
@@ -171,6 +193,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "In fact, the engineers that worked on search all rage quit to make an ad-free version of the service since they all know it's turned the algorithm into dog water.",
       "start": "00:02:01",
       "end": "00:02:09",
@@ -178,6 +201,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "The only thing that Google has made that has made money is Chromecast.",
       "start": "00:02:09",
       "end": "00:02:12",
@@ -185,6 +209,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "And what is Chromecast?",
       "start": "00:02:13",
       "end": "00:02:14",
@@ -192,6 +217,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "A way to watch television without television ads.",
       "start": "00:02:14",
       "end": "00:02:16",
@@ -199,6 +225,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Even the clean home screen with nothing but a search bar was liked by everyone because it didn't have ads.",
       "start": "00:02:17",
       "end": "00:02:22",
@@ -206,6 +233,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "You would think they would notice and maybe make something worth a shit with this blatantly obvious information.",
       "start": "00:02:22",
       "end": "00:02:28",
@@ -213,6 +241,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They can't because they are too busy keeping what is really the largest scam of all time alive.",
       "start": "00:02:28",
       "end": "00:02:33",
@@ -220,6 +249,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "They are truly fucked now that gifting economy apps are showing up that resist acquisition offers from big tech.",
       "start": "00:02:33",
       "end": "00:02:38",
@@ -227,6 +257,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Google and Facebook are on their way to being as relevant as AOL.",
       "start": "00:02:39",
       "end": "00:02:42",
@@ -234,6 +265,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "Anyway, they completely fucked up the internet with their bullshit so apps like this one have to use machine learning to filter out posts that have even the slightest telemarketing energy.",
       "start": "00:02:43",
       "end": "00:02:52",
@@ -241,6 +273,7 @@
       "mida": []
     },
     {
+      "speaker": "assistant",
       "text_prompt": "You can just read the terms of service and download your data to see how, but I will make a post explaining it anyway.",
       "start": "00:02:52",
       "end": "00:02:58",
