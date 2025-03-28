@@ -1,6 +1,7 @@
 {
-  "user": [
+  "conversation": [
     {
+      "speaker": "user",
       "text_prompt": "I found this poor creature abandoned on the streets.",
       "start": "00:00:00",
       "end": "00:00:02",
@@ -8,6 +9,7 @@
       "mida": []
     },
     {
+      "speaker": "user",
       "text_prompt": "It was malnourished and had no tags so I took it in.",
       "start": "00:00:03",
       "end": "00:00:05",
@@ -15,15 +17,15 @@
       "mida": []
     },
     {
+      "speaker": "user",
       "text_prompt": "I had to wake up every two hours to feed it raw energy and after a month of care my creature looks so much healthier.",
       "start": "00:00:05",
       "end": "00:00:11",
       "visual_prompt": [],
       "mida": []
-    }
-  ],
-  "assistant": [
+    },
     {
+      "speaker": "assistant",
       "text_prompt": "lilith posting",
       "start": "",
       "end": "",
